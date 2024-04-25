@@ -1,5 +1,6 @@
 # realtime-admin-dashboard
-# By Owais Nizami - @rahneverd
+# By Owais Nizami 
+# @rahneverd
 
 <div align="center" style="margin: 30px;">
     <a href="https://refine.dev">
